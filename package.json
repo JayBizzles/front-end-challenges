@@ -7,7 +7,8 @@
     "private": true,
     "dependencies": {
         "jest": "^23.6.0",
-        "jest-cli": "^23.6.0"
+        "jest-cli": "^23.6.0",
+        "start": "lr-http-server"
     },
     "devDependencies": {
         "@babel/core": "^7.1.2",
